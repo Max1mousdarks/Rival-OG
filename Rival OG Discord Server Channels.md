@@ -62,6 +62,7 @@ Staff-Chat
 Mod-Logs
 Patch-Notes
 Documents
+GitHub-Archive
 Future-Shops
 Github-Archive
 STAFF VC 1
