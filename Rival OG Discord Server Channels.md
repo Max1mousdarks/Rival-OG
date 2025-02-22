@@ -59,6 +59,7 @@ STAFF
 Staff-Rules
 Staff-Announcements
 Staff-Chat
+Staff-Bot-Commands
 Mod-Logs
 Patch-Notes
 Documents
