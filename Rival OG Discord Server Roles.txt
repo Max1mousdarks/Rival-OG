@@ -17,7 +17,7 @@ Member
             NA-East
             NA-Central
             NA-West
-            SA
+            South America
             Oceania
             Asia
 
