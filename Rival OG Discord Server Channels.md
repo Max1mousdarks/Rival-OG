@@ -24,6 +24,7 @@ Updates
 Item-Shop
 Website
 Donate
+Giveaways
 Polls
 Creator-Program
 Socials
