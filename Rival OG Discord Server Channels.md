@@ -47,6 +47,14 @@ LFG-Squads
 LFG-LTM
 LFG-Creative
 
+CONTENT CREATOR
+
+Content Creator Rules
+Content Creator Giveaways
+Content Creator Chat
+Content Creator VC 1
+Content Creator VC 2
+
 PLAYTESTING
 
 Playtesting-Rules
