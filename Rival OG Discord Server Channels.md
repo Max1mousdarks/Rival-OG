@@ -123,6 +123,7 @@ Staff-Chat
 Ban-Appeal-Submissions
 Helper-Application-Submissions
 Content-Creator-Application-Submissions
+Community-Updates
 Staff VC 1
 Staff VC 2
 
