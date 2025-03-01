@@ -101,11 +101,6 @@ APPLICATIONS
 
 Ban-Appeal
 Helper-Application
-Moderator-Application
-Admin-Application
-Staff-Application
-Developer-Application
-Owner-Application
 Content-Creator-Application
 
 Support Member
@@ -113,8 +108,9 @@ Support Member
 Support-Rules
 Support-Announcements
 Support-Chat
-Query-transcripts
 Fix-Sheet
+Support VC 1
+Support VC 2
 
 TICKETS
 
@@ -122,14 +118,14 @@ CLOSED TICKETS
 
 STAFF
 
+Staff-Announcements
+Staff-Chat
 Ban-Appeal-Submissions
 Helper-Application-Submissions
-Moderator-Application-Submissions
-Admin-Application-Submissions
-Staff-Application-Submissions
-Developer-Application-Submissions
-Owner-Application-Submissions
 Content-Creator-Application-Submissions
+Staff VC 1
+Staff VC 2
+
 
 
 
