@@ -93,9 +93,10 @@ SUPPORT
 Create-A-Ticket
 Report-A-Bug
 Report-A-Player
+Suggestions
 FAQ
 Fixes
-Suggestions
+
 
 APPLICATIONS
 
