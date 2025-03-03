@@ -8,6 +8,7 @@ Admin
 Moderator
 Helper
 Content Creator
+Trusted
 Playtester
 Premium
 Server Booster
