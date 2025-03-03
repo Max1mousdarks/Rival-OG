@@ -36,6 +36,7 @@ General
 Media
 Clips
 Non-Lang-General
+Trusted
 VC 1
 VC 2
 
