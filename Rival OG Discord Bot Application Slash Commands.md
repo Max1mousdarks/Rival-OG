@@ -21,7 +21,7 @@ PUBLIC COMMANDS
 
 - /register // Creates An Account
 - /accdetails // Fetches User's Account Information
-- /searchacc // Retrieves Other's Account Information
+- /searchacc // Retrieves Users Name (Switchable By Discord, IGU)
 - /codeexchangement // Generates An Exchange Code For Login
 - /changeusername // Changes Players Own Username
 - /changeemail // Changes Players Own Email
