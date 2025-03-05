@@ -1,0 +1,23 @@
+Rival OG Patch Notes Generator For Days = Symbols     05/03/25     Python
+
+
+symbols = []
+letters = "abcdefghijklmnopqrstuvwxyz"
+
+def generate_symbols():
+    for i in range(1, 69):
+        if i <= 26:
+            symbol = letters[i - 1]  # a-z
+        elif i <= 52:
+            symbol = letters[(i - 1) % 26] * 2  # aa-zz
+        elif i <= 68:
+            symbol = letters[(i - 1) % 26] * 3  # aaa-ppp
+        symbols.append((i, symbol))
+
+def display_symbols():
+    for day, symbol in symbols:
+        print(f"Day {day} = {symbol}")
+
+
+generate_symbols()
+display_symbols()
