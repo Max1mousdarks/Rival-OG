@@ -71,6 +71,7 @@ Staff-Announcements
 Staff-Chat
 Staff-Bot-Commands
 Staff-Info
+Leaks
 Mod-Logs
 Patch-Notes
 Documents
