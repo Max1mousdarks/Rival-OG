@@ -70,6 +70,7 @@ Staff-Rules
 Staff-Announcements
 Staff-Chat
 Staff-Bot-Commands
+Staff-Info
 Mod-Logs
 Patch-Notes
 Documents
