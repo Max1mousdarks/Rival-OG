@@ -46,6 +46,7 @@ Member
             XMPP/HTPP/Matchmaker Developer
             Custom Cosmetic Developer
 
+            Muted
 
 
 SUPPORT SERVER
