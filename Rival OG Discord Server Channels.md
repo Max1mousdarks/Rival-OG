@@ -74,6 +74,7 @@ Staff-Info
 Mod-Logs
 Patch-Notes
 Documents
+Member-Punishments
 GitHub-Repository
 Future-Shops
 STAFF VC 1
