@@ -22,6 +22,7 @@ RIVAL OG
 News
 Updates
 Item-Shop
+Exclusives
 Website
 Donate
 Giveaways
