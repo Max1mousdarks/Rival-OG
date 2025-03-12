@@ -10,3 +10,5 @@ RIVAL OG PLAYTESTING RULES
 - Report Issues
 - Focus On Testing, Not Playing
 - Be Respectful
+
+**If A Server Administrator / Member Of Staff Finds You Breaking Any Of These Rules You Will Be Demoted From The Playtester Role.**
