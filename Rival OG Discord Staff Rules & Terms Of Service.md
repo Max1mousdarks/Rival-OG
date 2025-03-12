@@ -17,3 +17,15 @@ RIVAL OG STAFF RULES & TERMS OF SERVICE
 - Keep Track Of Issues
 - Communicate Clearly
 - No Toxic Behaviour
+
+**These Rules Are Strictly Looked Over On Every Member With The Following Roles:**
+
+- Helper
+- Moderator
+- Admin
+- Staff
+- Manager
+- Developer
+- Owner
+
+**If Anybody With The Roles That Are Listed Above Breaks Any Of These Rules Will Result In You Being Instantly Demoted.**
