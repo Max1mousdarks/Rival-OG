@@ -16,6 +16,7 @@ Status
 Register
 Support
 SMP-Server
+Days-Until-Release
 
 RIVAL OG
 
