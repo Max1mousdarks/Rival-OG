@@ -24,6 +24,7 @@ News
 Updates
 Item-Shop
 Exclusives
+Live-Event
 Website
 Donate
 Giveaways
