@@ -77,7 +77,8 @@ Staff-Info
 Leaks
 Mod-Logs
 Patch-Notes
-Documents
+Season-Documents
+Global-Documents
 Member-Punishments
 GitHub-Repository
 Future-Shops
