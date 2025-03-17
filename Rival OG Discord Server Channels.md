@@ -80,7 +80,6 @@ Patch-Notes
 Season-Documents
 Global-Documents
 Member-Punishments
-GitHub-Repository
 Future-Shops
 STAFF VC 1
 STAFF VC 2
