@@ -1,4 +1,4 @@
-Rival OG Fortnite Discord Server: Channels/Categories
+  Rival OG Fortnite Discord Server: Channels/Categories
 
 WELCOME
 
@@ -13,6 +13,7 @@ Announcements
 Download
 Tutorial
 Status
+Safety
 Register
 Support
 SMP-Server
@@ -94,6 +95,7 @@ IMPORTANT
 Rules
 Updates
 Main-Server
+Credits
 
 SUPPORT
 
