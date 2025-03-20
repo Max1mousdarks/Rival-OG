@@ -52,11 +52,19 @@ LFG-Squads
 LFG-LTM
 LFG-Creative
 
+BOOSTER
+
+Booster-Perks
+Booster-Chat
+Booster-Ticket
+Booster VC 1
+Booster VC 2
+
 CONTENT CREATOR
 
-Content Creator Rules
-Content Creator Giveaways
-Content Creator Chat
+Content-Creator-Rules
+Content-Creator-Giveaways
+Content-Creator-Chat
 Content Creator VC 1
 Content Creator VC 2
 
