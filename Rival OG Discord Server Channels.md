@@ -59,7 +59,7 @@ Booster-Ticket
 Booster VC 1
 Booster VC 2
 
-Support (Boost)
+Support (BOOST)
 
 Boost-Support-Announcements
 Boost-Support-Chat
