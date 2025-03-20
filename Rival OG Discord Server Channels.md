@@ -17,7 +17,6 @@ Safety
 Register
 Support
 SMP-Server
-Days-Until-Release
 
 RIVAL OG
 
@@ -32,7 +31,7 @@ Giveaways
 Polls
 Creator-Program
 Socials
-Trailers
+Trailer
 
 COMMUNICATION
 
@@ -59,6 +58,14 @@ Booster-Chat
 Booster-Ticket
 Booster VC 1
 Booster VC 2
+
+Support (Boost)
+
+Boost-Support-Announcements
+Boost-Support-Chat
+Fix-Sheet
+Boost-Support-VC-1
+Boost-Support-VC-2
 
 CONTENT CREATOR
 
@@ -93,6 +100,9 @@ Future-Shops
 STAFF VC 1
 STAFF VC 2
 
+Booster Tickets
+
+Booster Closed Tickets
 
 SUPPORT SERVER
 
@@ -125,6 +135,7 @@ Support Member
 
 Support-Rules
 Support-Announcements
+Demotions-Promotions-Recrutions
 Support-Chat
 Fix-Sheet
 Support VC 1
